@@ -1,4 +1,4 @@
-# PyTorch 中文手册 （pytorch handbook）
+# PyTorch 中文手册（pytorch handbook）
 ![pytorch](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
 
 ## 书籍介绍
@@ -18,26 +18,38 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 [官方1.0说明](https://github.com/pytorch/pytorch/releases/tag/v1.0.0)
 [主要改动中文说明](changelog-v1.0.md)
 
-## 一些废话
-没想到春节刚过完就火了，元宵节后正常更新
+## QQ群
+群号：985896536
+
+扫描二维码
+
+![QR](PyTorch-Handbook-QR.png)
+
+
+或
+
+[点击链接加入群聊 『PyTorch Handbook 交流群』](https://jq.qq.com/?_wv=1027&k=5L28MSZ)
+
+## 问题
 
 修改错别字请直接提issue或者fork后直接 pull request
 
 有问题也请直接提issue
 
+感谢
 
 ## 目录
 
-### 第一章： pytorch入门
+### 第一章：PyTorch 入门
 
-1. [Pytorch 简介](chapter1/1.1-pytorch-introduction.md)
-2. [Pytorch环境搭建](chapter1/1.2-pytorch-installation.md)
-3. [PyTorch 深度学习:60分钟快速入门 （官方）](chapter1/1.3-deep-learning-with-pytorch-60-minute-blitz.md)
+1. [PyTorch 简介](chapter1/1.1-pytorch-introduction.md)
+2. [PyTorch 环境搭建](chapter1/1.2-pytorch-installation.md)
+3. [PyTorch 深度学习：60分钟快速入门（官方）](chapter1/1.3-deep-learning-with-pytorch-60-minute-blitz.md)
     - [张量](chapter1/1_tensor_tutorial.ipynb)
-    - [Autograd: 自动求导](chapter1/2_autograd_tutorial.ipynb) 
+    - [Autograd：自动求导](chapter1/2_autograd_tutorial.ipynb) 
     - [神经网络](chapter1/3_neural_networks_tutorial.ipynb)
     - [训练一个分类器](chapter1/4_cifar10_tutorial.ipynb)
-    - [选读：数据并行处理(多GPU)](chapter1/5_data_parallel_tutorial.ipynb)
+    - [选读：数据并行处理（多GPU）](chapter1/5_data_parallel_tutorial.ipynb)
 4. [相关资源介绍](chapter1/1.4-pytorch-resource.md)
 
 ### 第二章 基础
