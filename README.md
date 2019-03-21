@@ -15,24 +15,28 @@
 API的改动不是很大，本教程已经通过测试，保证能够在1.0中正常运行。
 不过目前看影响不大，因为毕竟内容还不多。 v0.4.1已经新建了分支作为存档，并且该不会再进行更新了。
 
+目前最近版本为1.0.1，没有大的API变更，所以还是以大版本1.0作为开发版本
+
 [官方1.0说明](https://github.com/pytorch/pytorch/releases/tag/v1.0.0)
 [主要改动中文说明](changelog-v1.0.md)
 
-## QQ群
+## QQ群 (已升级2000人大群)
 群号：985896536
 
 扫描二维码
 
-![QR](PyTorch-Handbook-QR.png)
+![QR](PyTorch-Handbook-QR.png) 
 
 
 或
 
 [点击链接加入群聊 『PyTorch Handbook 交流群』](https://jq.qq.com/?_wv=1027&k=5L28MSZ)
 
-## 问题
+## 说明
 
-修改错别字请直接提issue或者fork后直接 pull request
+修改错别字请直接提issue或PR
+
+PR时请注意版本
 
 有问题也请直接提issue
 
@@ -98,6 +102,8 @@ API的改动不是很大，本教程已经通过测试，保证能够在1.0中�
 [visdom](chapter4/4.2.1-visdom.ipynb)
 
 [tensorboardx](chapter4/4.2.2-tensorboardx.ipynb)
+
+[可视化理解卷积神经网络](chapter4/4.2.2-tensorboardx.ipynb)
 
 #### 第三节 fastai
 #### 第四节 训练的一些技巧
